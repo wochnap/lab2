@@ -1,0 +1,34 @@
+body
+{background: #ff9797;
+text-align: center;
+
+}
+
+.naglowek1 
+  {background: #ff5555;
+	}
+
+	
+.naglowek2
+	{background: #ff6f6f;
+}
+
+.akapit
+{color: #ffd2a6;
+
+}
+
+ 
+ .stopka
+ {color: #ff80ff;
+ background: #b300b3;
+ }
+ 
+ .container
+ {
+ max-width: 1000px;
+ margin-left: 20%;
+margin-right: 20%; 
+ }
+ 
+ 

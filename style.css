@@ -1,0 +1,30 @@
+body  
+	{background: #d1d1d1; 
+	 text-align: center; 
+	 font-size: 1em; 
+	 
+	}
+
+	
+.naglowek1 
+  
+	{color: #3c3cff;
+	}
+
+	
+	.naglowek2
+	{color: #d700d7; 
+}
+	
+
+
+ .stopka
+ {background: #bc7a7a;
+ }
+
+ .container
+ { 
+ max-width: 1000px;
+ margin-left: 20%;
+margin-right: 20%; 
+ }
