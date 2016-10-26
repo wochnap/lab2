@@ -1,27 +1,28 @@
 body
-{background: #77ffff;
+{background: #aeffae;
 text-align: center;
 
 }
 
 .naglowek1 
-  {background: #ff5555;
+  
+	{color: #008000;
 	}
 
 	
 .naglowek2
-	{background: #ff6f6f;
+	{color: #008040;
 }
 
 .akapit
-{color: #ffd2a6;
+{color: #0080c0;
 
 }
 
  
  .stopka
- {color: #ff80ff;
- background: #b300b3;
+ {color: black;
+ background: #80ffff;
  }
  
  .container
